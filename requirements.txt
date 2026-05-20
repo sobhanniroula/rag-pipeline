@@ -1,4 +1,5 @@
 langchain
+langchain-huggingface
 langchain-core
 langchain-community
 pypdf
@@ -9,3 +10,4 @@ faiss-cpu
 chromadb
 langchain-groq
 python-dotenv
+typesense
